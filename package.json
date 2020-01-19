@@ -1,6 +1,6 @@
 {
   "name": "@aibolik/me",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Aibol Kussain (@aibolik)'s business card",
   "main": "index.js",
   "dependencies": {
@@ -14,7 +14,7 @@
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "bin": {
-    "@aibolik/me": "./bin"
+    "@aibolik/me": "./bin/index.js"
   },
   "repository": {
     "type": "git",
