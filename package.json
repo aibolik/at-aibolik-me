@@ -1,0 +1,25 @@
+{
+  "name": "@aibolik/me",
+  "version": "1.0.0",
+  "description": "Aibol Kussain (@aibolik)'s business card",
+  "main": "index.js",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^3.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "bin": {
+    "@aibolik/me": "./bin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aibolik/at-aibolik-me.git"
+  },
+  "author": "Aibol Kussain <aibolikdev@gmail.com>",
+  "license": "MIT"
+}
